@@ -1,0 +1,5 @@
+module Copenssl [system] {
+  header "shim.h"
+  link "Copenssl"
+  export *
+}
